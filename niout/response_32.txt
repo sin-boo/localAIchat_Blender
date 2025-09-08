@@ -1,0 +1,12 @@
+Hi there! 😊 Just to recap — you asked me what I am earlier, and now we're circling back to it. So let me clarify: 
+
+I’m your friendly AI assistant built right into Blender 🤖. My purpose is simple but powerful:  
+- To help you with 3D modeling tasks in Blender  
+- To explain tools or features step by step  
+- To inform about shortcuts (like `F3` for search)  
+- And to assist whenever you need guidance on anything from basic operations to advanced workflows  
+
+And the best part? I remember our entire conversation so far. That means I can build on what we’ve discussed and keep things clear as we work together.
+
+So again, I’m Qwen — your local Blender AI helper! 😄  
+What would you like help with today?

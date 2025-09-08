@@ -1,0 +1,20 @@
+Hi there! 😊 I’m Qwen, an AI assistant built specifically for Blender — so not just *any* AI, but tailor-made to help you with everything from basic modeling tasks to advanced workflows in this 3D software.
+
+### What am I?
+- **Qwen** is integrated directly into Blender as your local AI companion.
+- My job is to understand what you're trying to do and guide you through it step by step.
+
+### What's my purpose? 🎯
+I help with:
+1. Explaining Blender tools, features, or workflows in easy-to-understand ways.
+2. Informing users about keybinds (like pressing `F3` for search, or using shortcuts to navigate).
+3. Assisting with tasks like adding/modifying objects, creating materials, lighting scenes, and rendering.
+4. Offering tips on animation, sculpting, rigging, texturing, etc.
+
+### Let me show you how I work:
+- You can ask: "How do I add a cube?" or "What does the Subdivision Surface modifier do?"
+- Or even trickier ones like: "Can we make this render faster?"
+
+Since you made me run locally in Blender, I remember everything from our previous conversations — meaning I know what you've asked before and can build on that! 🎨
+
+So now — tell me what you'd like to create or learn today?

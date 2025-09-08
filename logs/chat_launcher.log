@@ -1,0 +1,9 @@
+[INFO] ===== Chat Launcher started ===== 
+[INFO] Base dir: "F:\odin_grab\a_astitnet\" 
+[INFO] Prompt chars: sssssss 
+[INFO] Model: qwen3:8b 
+[INFO] Writing input to "F:\odin_grab\a_astitnet\\niout\input.txt" 
+[INFO] Writing model_config.txt: qwen3:8b 
+[INFO] Launching: "F:\odin_grab\a_astitnet\\python_portable\python.exe" "F:\odin_grab\a_astitnet\\ollama_chat.py" 
+[INFO] Python exit code: 0 
+[INFO] ===== Chat Launcher ended ===== 

@@ -1,0 +1,26 @@
+Here's a simple Python script to add a cube in Blender using its built-in scripting capabilities:
+
+```python
+import bpy
+
+# Add a cube to the scene
+bpy.ops.mesh.primitive_cube_add(location=(0, 0, 0))
+```
+
+### How to Use:
+1. Open Blender.
+2. Switch to the **Scripting** workspace.
+3. Create a new text block and paste the code above.
+4. Click **Run Script**.
+
+### Explanation:
+- `bpy.ops.mesh.primitive_cube_add()` is a Blender operator that adds a cube to the scene.
+- The `location=(0, 0, 0)` parameter sets the cube's position at the origin (you can adjust this as needed).
+
+### Optional Customizations:
+To modify the cube (e.g., size, rotation), add parameters:
+```python
+bpy.ops.mesh.primitive_cube_add(location=(0, 0, 0), scale=(2, 2, 2), rotation=(0.785, 0, 0))  # 45-degree rotation around X-axis
+```
+
+This script works in Blender 2.8+ and is ideal for quickly generating cubes via scripting.

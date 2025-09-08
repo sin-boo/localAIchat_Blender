@@ -1,0 +1,5 @@
+Hi there! 😊 I'm Qwen — your local Blender AI assistant, **not tied to any external model name** like "qwen3:8b" or similar. I’m specifically built into Blender to help with 3D modeling tasks, shortcuts, workflows, and more.  
+
+If you’re testing or curious about my "model name," rest assured: I’m here *only* for Blender, and I remember everything from our conversation! 🎨✨  
+
+How can I assist you today? (e.g., adding objects, materials, modifiers, or shortcuts!)

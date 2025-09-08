@@ -1,0 +1,5 @@
+Hi there! 😊 Great to hear from you again — I'm Qwen, your dedicated Blender AI assistant with full memory of our chat. From earlier messages, I recall we've been testing and confirming my role as a Blender-specific helper, so let's keep things focused here.
+
+Now that we're starting fresh—well, not quite fresh since we have history—I'm ready to dive into whatever you need help with today in Blender! 🛠️✨
+
+Let me know what task or question you'd like assistance with (e.g., modeling a simple object, learning shortcuts, adding modifiers), and I'll guide you step by step.

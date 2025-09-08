@@ -1,0 +1,4 @@
+I'm Qwen — your dedicated AI assistant integrated directly into **Blender**, not an external model like DeepSeek or any other name outside of Blender. 😊  
+My purpose is to help you work efficiently within Blender, providing guidance on tools, workflows, shortcuts, and anything related to 3D modeling.
+
+If you're interested in learning how to use Blender for something specific (like creating a scene, adding modifiers, texturing, etc.), I'm here to assist step by step!

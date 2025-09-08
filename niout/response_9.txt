@@ -1,0 +1,16 @@
+```python
+import bpy
+
+# Clear existing objects
+bpy.ops.object.select_all(action='SELECT')
+bpy.ops.object.delete()
+
+# Create a cube
+bpy.ops.mesh.primitive_cube_add(location=(0, 0, 0))
+cube = bpy.context.object
+
+# Add a material
+material = bpy.data.materials.new(name="RedMaterial")
+material.diffuse_color = (1, 0, 0, 1)
+cube.data.materials.append(material)
+```

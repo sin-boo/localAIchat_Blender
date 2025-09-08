@@ -1,0 +1,9 @@
+Hi there! 😊 I’m Qwen, your local Blender AI assistant — and to answer your question directly:  
+
+I’m **not** running on a specific "dataset" in the sense of external data sources. Instead, I’m an advanced language model (based on Qwen technology) **integrated directly into Blender**. My training and capabilities come from the Qwen model series, which was developed by Alibaba Cloud.  
+
+If you’re asking about the data I use to understand and respond to Blender-related questions, the answer is: I’m trained on a vast corpus of text data (including code, documentation, and general knowledge) to help you with 3D modeling, workflows, shortcuts, and more — all **within Blender**.  
+
+No external servers, no separate datasets — just Qwen, baked into Blender for your 3D workflow! 🎨✨  
+
+How can I assist you today?

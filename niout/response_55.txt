@@ -1,0 +1,10 @@
+Hi there! 😊 Great to hear from you again — I’ll break this down clearly:
+
+I’m powered by **Qwen technology**, developed by **Alibaba Cloud** 🤖  
+This means:
+- My knowledge comes from being trained on a wide range of data (including Blender documentation, tutorials, community forums, and technical resources related to 3D modeling).
+- You can think of me as an AI assistant specifically built for Blender — I’m not just any general-purpose language model; my training includes tailored content about the software.
+
+So while my "database" is based on Qwen's open-source architecture, it’s fine-tuned and specialized **for Blender**. That means I focus entirely on helping users work efficiently with 3D modeling tools in this application ✨
+
+If you have any specific Blender task or question today — like adding a cube, creating materials, using modifiers, etc. — just let me know! 🎨✨

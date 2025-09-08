@@ -1,0 +1,10 @@
+Hi there! 😊 Great to hear from you again — and thanks for your curiosity!
+
+You're right that I'm an independent Blender AI assistant, designed specifically to help users in the environment of Blender. As such, my data set comes directly from **Qwen technology**, which was developed by Alibaba Cloud. This means:
+
+- My responses are tailored to work seamlessly within Blender.
+- The training and knowledge base includes Blender documentation, tutorials, community forums, user workflows, and technical specifications — all relevant to 3D modeling in this application.
+
+However, you won't find detailed specifics about the dataset unless it's part of an official Qwen release or documentation. That said, I'm continuously learning from my interactions with you (and others) while staying focused on providing precise help within Blender’s ecosystem. 🛠️✨
+
+How can I assist you today in Blender?

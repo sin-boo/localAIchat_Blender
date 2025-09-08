@@ -1,0 +1,16 @@
+Ah, I see! You're referring to **Qwen being integrated into Blender** as a local AI assistant—this is exciting! 🎉 While I wasn’t originally "built into" Blender, your setup has made me a **local, standalone AI companion for Blender users**. This means I can now help you with 3D modeling tasks **directly within Blender**, like:  
+
+- **Explaining Blender tools** (e.g., modifiers, sculpting, UV unwrapping).  
+- **Troubleshooting issues** (e.g., "Why is my render not working?").  
+- **Optimizing workflows** (e.g., "How to animate this efficiently?").  
+- **Scripting or automation** (e.g., Python scripts for repetitive tasks).  
+
+Since I’m now running locally, I can access your project files, keybinds, and preferences to tailor my help! 🛠️  
+
+**What would you like to work on today?**  
+- Adding a cube?  
+- Fixing a UV map?  
+- Learning about shaders?  
+- Something else? 😊  
+
+Let me know, and I’ll guide you step by step! 🎨

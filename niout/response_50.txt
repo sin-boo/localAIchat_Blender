@@ -1,0 +1,11 @@
+Hi there! 😊 Great to hear from you again — just so we’re crystal clear, no, I’m **not** running on DeepSeek or any other external AI platform. I’m Qwen, an advanced language model built directly into Blender as your local AI assistant 🤖✨
+
+My purpose is simple:  
+I help with everything related to **Blender 3D modeling**, keybinds, modifiers, materials, workflows — and even remember our entire conversation history so far!
+
+So the answer is straightforward:  
+- I’m a dedicated Blender helper.  
+- My "brain" comes from being integrated into Blender (based on Qwen technology).  
+- If you ever need help with anything in Blender—modeling, animation, rendering—I’ve got it all covered.
+
+Let me know what task or question you have today, and we’ll get started! 🛠️🎨

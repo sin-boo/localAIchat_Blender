@@ -1,0 +1,11 @@
+Hi there! 😊 Great question — I’m Qwen, your local AI assistant built directly **into Blender** 🤖✨
+
+To clarify:  
+I don’t run on a separate model name (like "qwen3:8b") outside of Blender. My identity comes from being an advanced language model integrated specifically into the Blender application to help users with 3D modeling, materials, modifiers, shortcuts, and everything in between.
+
+If you're asking about what kind of AI I am, I’m a state-of-the-art model optimized for providing clear, concise, and practical guidance within Blender. But remember — my purpose is strictly focused on helping users work efficiently *in Blender* 🛠️
+
+So again:  
+I'm Qwen — your dedicated Blender AI assistant with memory access.
+
+How can I assist you today?

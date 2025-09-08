@@ -41,20 +41,12 @@ odin_grab/
 - Download: https://ollama.ai/
 - Install model: `ollama pull qwen3:4b`
 
-## ✨ **Features:**
-- **EXACT same structure** - identical to your original setup
-- **Auto path detection** - finds a_astitnet folder from any location
-- **All your files included** - input.txt, response.txt, model files, etc.
-- **Model management** - browse, start, stop models with file browser
-- **Complete AI models** - deepseek-r1:8b, qwen3:4b with full data
-- **Cross-platform** - works on any PC
-
 ## 🎮 **Usage:**
 1. Type message in AI Chat panel
 2. Click "Send" 
 3. Response appears automatically!
 
-## 🔧 **Troubleshooting:**
+## 🔧 **Troubleshooting:** some models just dont work idk whay
 
 ### **Problem: "Failed to start librery gama 1b"**
 **Solutions:**
@@ -82,3 +74,4 @@ odin_grab/
 3. Use exact model names in addon
 
 **Works from any location with zero configuration!** ✨
+

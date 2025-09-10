@@ -32,6 +32,25 @@ the one ---->├── addon/Advanced AI Communication.zip/# Blender addon
 <img src="https://github.com/sin-boo/localAIchat_Blender/raw/3b9421065a7117b8530a5be4e8e39ba49e6c3913/part_1%20to%202.PNG" alt="Preview" width="600" height="850" align="left"/>
 
 
+# LocalAIchat Blender Add-on
+
+## Introduction
+
+Now that you have the add-on, the next step is to install it.  
+I’ll assume you already know how to install a Blender add-on. If not, there are plenty of quick YouTube tutorials that can walk you through it.  
+
+Once installed, we just need to set the **base folder location** inside the add-on settings.  
+
+Currently, this project is still in testing, but let’s give it a try:  
+1. Go to the add-on settings.  
+2. Set the **base folder** to the directory named `a_assistant`.  
+   - This makes the add-on look for the required files inside that folder.  
+3. After setting the path, press **Refresh**.  
+
+If everything is set up correctly, it should now work! 🎉  
+
+
+
 
 
 

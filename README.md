@@ -21,6 +21,7 @@ odin_grab/
     ├── model_manager.py    # Model management
     └── ollama_chat.py      # Main chat script
 ```
+ ![Preview Image](https://github.com/sin-boo/localAIchat_Blender/blob/3b9421065a7117b8530a5be4e8e39ba49e6c3913/part_1%20to%202.PNG)
 ```
 
 ## 🚀 **Setup (3 Steps):**
@@ -74,6 +75,7 @@ odin_grab/
 3. Use exact model names in addon
 
 **Works from any location with zero configuration!** ✨
+
 
 
 

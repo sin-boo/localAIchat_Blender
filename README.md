@@ -1,6 +1,7 @@
 # 💫 About Me:
 ## 💰 You can help me by Donating
 🔭 localAIchat_Blender
+help me fund my own custom Blender AI
 
   #                 ‎ ‎ ‎ ‎‎                                                                               ‎ ‎       ------------------------[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sinbloo)---------------------- # 
 
@@ -129,6 +130,7 @@ Once everything is set up, you’re ready to start using the add-on.
 
 ⏳ The first time you start a model, it usually takes about **1 minute to boot up**.  
 After that, responses will be much faster.  
+
 
 
 

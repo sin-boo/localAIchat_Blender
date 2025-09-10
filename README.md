@@ -12,7 +12,7 @@
 
 ok so you got the zip file now the zip fiel it self is not the addon 
 the addon is in the folder now firt you need to unzip the fiel 
-
+```
 one yoy have the fiell  to get the addon go to 
 F:\odin_grab\a_astitnet/
 the one ---->├── addon/Advanced AI Communication.zip/# Blender addon 
@@ -27,6 +27,8 @@ the one ---->├── addon/Advanced AI Communication.zip/# Blender addon
 ├── check_python.bat        # NEW: Wat we use to run the model
 ├── model_manager.py         # Model management script
 └── README.md               # Complete documentation
+```
+
 
 
 

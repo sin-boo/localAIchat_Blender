@@ -91,6 +91,36 @@ The ones tested so far are:
 🚫 Do **not** press "Start" manually — this will load the model twice.  
 Instead, the add-on will automatically start the model when you send your first message.  
 
+## Configuring Ollama with the Add-on
+
+After you have both a model downloaded and the path set for Ollama, the default installation path should look something like this:  
+
+
+Now we can connect Ollama with the Blender add-on.  
+
+### Final Setup Steps
+1. **Start Ollama** inside the add-on.  <img src="https://github.com/sin-boo/localAIchat_Blender/blob/00fe00ada71b74dc434f29e2eab8b927ef99ea61/p6.PNG" alt="Preview" width="500" align="left"/>
+2. In Ollama, open **Settings** (from the side panel).  
+3. Change the **model download location** to the `AI_mode` folder we unzipped earlier (inside the add-on’s directory).  
+   - This ensures that Ollama places models where the add-on can find them.  
+
+### Model Manager
+Once your AI model has been downloaded, it should appear in Ollama’s **Model Manager**.  
+
+1. Scroll down to the **Model Manager** section.  
+2. At the bottom, press the **folder icon** (not *Browse Model* — I’ll rename this later to avoid confusion).  
+3. Navigate to the location where you stored your model. Go all the way down inside until you see a folder like `12B` or `8B`.  
+4. Select that folder.  
+5. In the add-on, press the following in order:  
+   - **Browse**  
+   - **Extract Model Name**  
+   - **Browse Model**  
+
+⚠️ Do **not** press **Start Model** manually.  
+If you do, it will load the model twice. The add-on will automatically start the model the first time you send a message.  
+
+
+
 
 
 

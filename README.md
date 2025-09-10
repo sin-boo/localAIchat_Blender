@@ -84,6 +84,13 @@ The ones tested so far are:
 
 ### Setting up your model
 1. After downloading a model, place it inside:  
+2. In the add-on settings, select this folder as the **file path**.  
+3. Press **Extract Model Name from File**.  
+4. Then press **Browse Model**.  
+
+🚫 Do **not** press "Start" manually — this will load the model twice.  
+Instead, the add-on will automatically start the model when you send your first message.  
+
 
 
 

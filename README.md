@@ -119,6 +119,18 @@ Once your AI model has been downloaded, it should appear in Ollama’s **Model M
 
 ⚠️ Do **not** press **Start Model** manually.  
 If you do, it will load the model twice. The add-on will automatically start the model the first time you send a message.  
+## Starting Ollama
+
+Once everything is set up, you’re ready to start using the add-on.  
+
+1. Open the add-on and press **Launch Ollama App**.  
+2. Go to **Model Manager** and make sure you **save your settings** (this ensures the model path is locked in).  
+3. Now type something into the chat box and press **Send**.  
+
+⏳ The first time you start a model, it usually takes about **1 minute to boot up**.  
+After that, responses will be much faster.  
+
+
 
 
 

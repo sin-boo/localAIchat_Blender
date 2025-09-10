@@ -8,11 +8,11 @@ odin_grab/
 └── a_astitnet/            # Main AI Chat folder
     ├── addon/ai_chat/      # Blender addon files
     ├── ai mode/            # AI model files & manifests
-    │   ├── blobs/          # Model data files
+    │   ├── blobs/          # Model data files                   ![Preview Image](https://github.com/sin-boo/blender_VT/blob/e758658a9f19a8a6d1adc01df531e9a9783b3693/im%20just%20good.PNG)
     │   └── manifests/      # Model manifests
     ├── niout/              # Chat files
     │   ├── input.txt       # Your messages
-    │   ├── response.txt    # AI responses
+    │   ├── response.txt    # AI responses                                                
     │   └── model_config.txt # Selected model
     ├── python_portable/    # Portable Python (auto-created)
     ├── INSTALL_PYTHON.bat  # Double-click installer
@@ -74,4 +74,5 @@ odin_grab/
 3. Use exact model names in addon
 
 **Works from any location with zero configuration!** ✨
+
 

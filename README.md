@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 localAIchat_Blender<br>👯me my self and i<br>🤝 tester and bug reporting<br>🌱c++<br>💬 wat im planning<br>⚡ i cant drive
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/sinbloo) 
+   -----------------------------------------[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/sinbloo)-----------------------------------------
 
 
 ## 🌐 Socials:
@@ -18,8 +18,9 @@
 [![](https://visitcount.itsvg.in/api?id=sin-boo&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/sinbloo) 
-
   
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 

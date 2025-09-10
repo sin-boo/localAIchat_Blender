@@ -29,7 +29,8 @@ the one ---->├── addon/Advanced AI Communication.zip/# Blender addon
 └── README.md               # Complete documentation
 ```
 
-[Releases page](https://github.com/sin-boo/localAIchat_Blender/blob/3c398eaf52494eb5c9cf484766606a63da48211a/p5.PNG).
+![Preview Image](https://github.com/sin-boo/localAIchat_Blender/blob/3c398eaf52494eb5c9cf484766606a63da48211a/part_1%20to%202.PNG)
+
 
 
 

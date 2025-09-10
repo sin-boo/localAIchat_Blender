@@ -48,6 +48,43 @@ Currently, this project is still in testing, but let’s give it a try:
 3. After setting the path, press **Refresh**.  
 
 If everything is set up correctly, it should now work! 🎉  
+# LocalAIchat Blender Add-on
+
+<img src="https://github.com/sin-boo/localAIchat_Blender/blob/3c398eaf52494eb5c9cf484766606a63da48211a/part%204.PNG" alt="Preview" width="500" align="left"/>
+
+## Introduction
+
+Now that you have the add-on, the next step is to install it.  
+I’ll assume you already know how to install a Blender add-on. If not, there are plenty of quick YouTube tutorials that can walk you through it.  
+
+Once installed, we just need to set the **base folder location** inside the add-on settings.  
+
+Currently, this project is still in testing, but let’s give it a try:  
+1. Go to the add-on settings.  
+2. Set the **base folder** to the directory named `a_assistant`.  
+   - This makes the add-on look for the required files inside that folder.  
+3. After setting the path, press **Refresh**.  
+
+If everything is set up correctly, it should now work! 🎉  
+
+---
+
+## Installing Ollama
+
+Next, you’ll need to install **Ollama**, which handles the language models used by this add-on.  
+
+🔗 Download Ollama here: [https://ollama.com/](https://ollama.com/)  
+
+Once Ollama is installed, download the model of your choice.  
+⚠️ Keep in mind that **not all models work** with this add-on.  
+The ones tested so far are:  
+- `gemma3:12b / 8b`  
+- `deepseek-r18b`  
+- `qwen3-4b / 8b`  
+
+### Setting up your model
+1. After downloading a model, place it inside:  
+
 
 
 

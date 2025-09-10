@@ -32,7 +32,7 @@ the one ---->├── addon/Advanced AI Communication.zip/# Blender addon
 <img src="https://github.com/sin-boo/localAIchat_Blender/raw/3b9421065a7117b8530a5be4e8e39ba49e6c3913/part_1%20to%202.PNG" alt="Preview" width="600" height="850" align="left"/>
 
 
-# LocalAIchat Blender Add-on
+# LocalAIchat Blender       Add-on
 
 ## Introduction
 
@@ -48,6 +48,7 @@ Currently, this project is still in testing, but let’s give it a try:
 3. After setting the path, press **Refresh**.  
 
 If everything is set up correctly, it should now work! 🎉  
+
 
 
 

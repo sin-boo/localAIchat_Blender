@@ -1,7 +1,11 @@
 # 💫 About Me:
 ## 💰 You can help me by Donating
-🔭 localAIchat_Blender
-help me fund my own custom Blender AI
+🔭help me fund my own custom Blender AI 
+## ❌ This is not a 3D model maker or an image generator.
+
+✅ This add-on is an AI chatbot that helps you remember Blender’s keybinds, modifiers, and other tricky stuff. It’s all about making your workflow easier.
+
+In the future, I want it to do even more—like listen to voice commands so you can ask it to add modifiers, organize scenes, rename objects, or even help with node setups. Think of it as a smart assistant inside Blender that saves you time and effort.
 
   #                 ‎ ‎ ‎ ‎‎                                                                               ‎ ‎       ------------------------[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sinbloo)---------------------- # 
 
@@ -130,6 +134,7 @@ Once everything is set up, you’re ready to start using the add-on.
 
 ⏳ The first time you start a model, it usually takes about **1 minute to boot up**.  
 After that, responses will be much faster.  
+
 
 
 

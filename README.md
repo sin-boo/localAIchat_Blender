@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## 💰 You can help me by Donating
-🔭help me fund my own custom Blender AI 
+🔭help me fund my own this addon and make it better
 ## ❌ This is not a 3D model maker or an image generator.
 
 ✅ This add-on is an AI chatbot that helps you remember Blender’s keybinds, modifiers, and other tricky stuff. It’s all about making your workflow easier.
@@ -134,6 +134,7 @@ Once everything is set up, you’re ready to start using the add-on.
 
 ⏳ The first time you start a model, it usually takes about **1 minute to boot up**.  
 After that, responses will be much faster.  
+
 
 
 
